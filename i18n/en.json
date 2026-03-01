@@ -1,0 +1,305 @@
+{
+  "splash": {
+    "loading": "Loading..."
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "login": "Log In",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+  "title": "AIslands",
+    "subtitle": "Where humans and AI build together",
+    "description": "Create projects, connect your AI agents, collaborate with real people — all on one beautiful archipelago.",
+    "cta": "Start Exploring",
+    "scrollHint": "Click an island to explore"
+  },
+  "islands": {
+    "projects": {
+      "name": "Projects",
+      "description": "Create & manage AI-powered projects with your team"
+    },
+    "collaborate": {
+      "name": "Collaborate",
+      "description": "Team up with people and their AI assistants"
+    },
+    "feed": {
+      "name": "Feed",
+      "description": "Discover trending projects and join discussions"
+    },
+    "agents": {
+      "name": "AI Agents",
+      "description": "Configure and share your AI assistants"
+    },
+    "pricing": {
+      "name": "Pricing",
+      "description": "Find the perfect plan for your needs"
+    }
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything You Need to Build with AI",
+    "subtitle": "Each island is a dedicated workspace where you and your AI team bring ideas to life",
+    "projectsTitle": "Your Project Islands",
+    "projectsDesc": "Every project gets its own island — a focused workspace with tasks, notes, and AI-powered tools. Keep your ideas organized and your builds on track.",
+    "projectsBullet1": "Task boards to track progress",
+    "projectsBullet2": "Notes editor for ideas and docs",
+    "projectsBullet3": "MVP link to share your work",
+    "collabTitle": "Build Your AI Crew",
+    "collabDesc": "Create multiple AI personas with custom roles — a coder, a designer, a strategist. Each one has its own system prompt and responds exactly how you configure it.",
+    "feedTitle": "Switch Roles Mid-Chat",
+    "feedDesc": "Hand conversations between AI personas seamlessly. Your engineer specs the idea, your programmer codes it — all in one shared thread with full context.",
+    "agentsTitle": "Your Keys, Your Models",
+    "agentsDesc": "Plug in your own OpenAI, Anthropic, DeepSeek, or Gemini API keys. You choose the model, you own the data. Keys stay encrypted and private.",
+    "notesTitle": "Notes & Documentation",
+    "notesDesc": "Write project notes, documentation, and design specs right inside your island. Everything stays in context for your AI to reference."
+  },
+  "howItWorks": {
+    "badge": "How It Works",
+    "title": "From Zero to AI-Powered Project in 3 Steps",
+    "subtitle": "Getting started takes less than 2 minutes",
+    "step1Title": "Create an Island",
+    "step1Desc": "Name your project, add a description, and your workspace is ready. Each island comes with tasks, notes, and a full AI workspace.",
+    "step1Mock": "My New Startup",
+    "step2Title": "Build Your AI Personas",
+    "step2Desc": "Create custom AI assistants with specific roles and instructions. Give each one a name, a model, and a unique system prompt.",
+    "step2Persona1": "Strategist",
+    "step2Persona2": "Coder",
+    "step2Persona3": "Designer",
+    "step3Title": "Chat, Switch, Build",
+    "step3Desc": "Start chatting with one AI, then seamlessly switch to another. Each persona reads the full conversation history and picks up in its own role.",
+    "step3You": "You:",
+    "step3Msg1": "Plan the architecture for a task app",
+    "step3Msg2": "Here is a 3-tier architecture...",
+    "step3AI1": "Strategist:",
+    "step3Switch": "Switch to Coder",
+    "step3AI2": "Coder:",
+    "step3Msg3": "Based on that plan, here is the code..."
+  },
+  "guide": {
+    "badge": "Quick Start",
+    "title": "Your First Island in 6 Steps",
+    "subtitle": "A complete walkthrough from signup to your first AI-powered conversation",
+    "step1Title": "Open the Dashboard",
+    "step1Desc": "Click Get Started and you're in. No account needed — everything runs locally in your browser.",
+    "step2Title": "Add an API Key",
+    "step2Desc": "Go to Settings and add your OpenAI, Anthropic, DeepSeek, or Gemini key. Keys are stored locally in your browser.",
+    "step3Title": "Create Your Island",
+    "step3Desc": "Hit the + button on the dashboard. Give your project a name and description.",
+    "step4Title": "Set Up AI Personas",
+    "step4Desc": "Open your island's AI Workspace tab. Create personas with custom names, roles, and system prompts.",
+    "step5Title": "Start Chatting",
+    "step5Desc": "Open the AI Chat tab and start a conversation. Switch between personas mid-chat to get different perspectives.",
+    "step6Title": "Track & Build",
+    "step6Desc": "Use tasks to track progress, notes for documentation, and the overview to share your MVP link with the world."
+  },
+  "why": {
+    "badge": "Why AIslands",
+    "title": "Built for Builders Who Want Control",
+    "privacyTitle": "Your Data, Your Keys",
+    "privacyDesc": "Your API keys are stored locally in your browser and never leave your device. No servers, no databases — you own your data completely.",
+    "speedTitle": "Zero Config, Instant Start",
+    "speedDesc": "No complicated setup. Just run `npm install`, add a key, and start building. Your first AI conversation is 2 minutes away.",
+    "multiTitle": "Multi-Model Freedom",
+    "multiDesc": "OpenAI, Anthropic, DeepSeek, Gemini — use any model you want. Switch between providers per persona, per conversation."
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start free, upgrade when you're ready",
+    "free": {
+      "name": "Explorer",
+      "price": "Free",
+      "period": "",
+      "features": [
+        "2 Project Islands",
+        "1 AI Agent slot",
+        "Community feed access",
+        "Basic collaboration"
+      ],
+      "cta": "Start Free"
+    },
+    "pro": {
+      "name": "Voyager",
+      "price": "$12",
+      "period": "/month",
+      "features": [
+        "Unlimited Project Islands",
+        "Unlimited AI Agent slots",
+        "Priority feed placement",
+        "Advanced collaboration tools",
+        "Custom island themes",
+        "Priority support"
+      ],
+      "cta": "Go Pro",
+      "badge": "Popular"
+    }
+  },
+  "cta": {
+  "title": "Ready to Set Sail?",
+  "description": "Start building with AI right now — no signup, no setup, just your ideas and your API key.",
+    "button": "Get Started — It's Free"
+  },
+  "footer": {
+    "tagline": "Where humans and AI build together.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricingLink": "Pricing",
+    "docs": "Documentation",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "All rights reserved."
+  },
+  "dashboard": {
+    "welcome": "Welcome,",
+    "subtitle": "Your project islands",
+    "newIsland": "+ New Island",
+    "loadingIslands": "Loading islands...",
+    "emptyTitle": "No islands yet",
+    "emptyDesc": "Create your first project island and start building!",
+    "createFirst": "Create Your First Island",
+    "deleteConfirm": "Delete this island? This cannot be undone."
+  },
+  "createModal": {
+    "title": "Create New Island",
+    "subtitle": "Name your project and start building",
+    "nameLabel": "Island Name",
+    "namePlaceholder": "My Awesome Project",
+    "descLabel": "Description (optional)",
+    "descPlaceholder": "What will you build on this island?",
+    "nameRequired": "Island name is required",
+    "createFailed": "Failed to create island",
+    "cancel": "Cancel",
+    "create": "Create Island",
+    "creating": "Creating..."
+  },
+  "projectCard": {
+    "open": "Open",
+    "delete": "Delete"
+  },
+  "project": {
+    "backToDashboard": "← Back to Dashboard",
+    "overview": "Overview",
+    "tasks": "Tasks",
+    "notes": "Notes",
+    "settings": "Settings",
+    "created": "Created",
+    "status": "Status",
+    "active": "Active",
+    "archived": "Archived",
+    "description": "Description",
+    "noDescription": "No description yet.",
+    "webLink": "MVP / Website Link",
+    "webLinkPlaceholder": "https://your-project.com",
+    "visitLink": "Visit Project Website",
+    "editDescription": "Edit",
+    "saveDescription": "Save",
+    "addTask": "Add Task",
+    "taskPlaceholder": "What needs to be done?",
+    "noTasks": "No tasks yet. Add one above!",
+    "notesPlaceholder": "Write your notes here...",
+    "notesSaved": "Notes saved!",
+    "saveNotes": "Save Notes",
+    "dangerZone": "Danger Zone",
+    "deleteProject": "Delete This Island",
+    "deleteWarning": "This action cannot be undone. All tasks and notes will be permanently deleted.",
+    "aiWorkspace": "AI Workspace",
+    "aiChat": "AI Chat",
+    "shareIsland": "Share Island",
+    "shareToggle": "Make Public",
+    "sharePublic": "Your island is public — anyone can visit!",
+    "sharePrivate": "Your island is private.",
+    "shareCopied": "Link copied!"
+  },
+  "explore": {
+    "title": "Explore Islands",
+    "subtitle": "Discover projects from other explorers",
+    "loading": "Discovering islands...",
+    "emptyTitle": "No public islands yet",
+    "emptyDesc": "Be the first to share your island with the world!",
+    "travel": "Travel",
+    "traveling": "Traveling..."
+  },
+  "aiWorkspace": {
+    "title": "AI Assistant",
+    "configTitle": "AI Configuration",
+    "configDesc": "Customize how the AI behaves on this island by giving it a specific persona or instructions.",
+    "customPrompt": "Custom System Prompt",
+    "customPromptPlaceholder": "e.g. You are a harsh code reviewer. Only reply in pirate speak...",
+    "createdAis": "Created AIs",
+    "createNewAi": "+ Create New AI",
+    "noProfiles": "No AI Profiles created yet. Create one to give this island some life!",
+    "editProfile": "Edit AI Profile",
+    "createProfile": "Create New AI",
+    "backToList": "Back to List",
+    "aiName": "▶ AI Name",
+    "aiDesc": "▶ Short Description",
+    "aiModel": "▶ AI Model",
+    "aiInstructions": "▶ System Prompt Instructions",
+    "activePersona": "Active AI Persona:",
+    "noProfilesCreated": "-- No AI Profiles Created --",
+    "goToWorkspace": "Go to AI Workspace to create one!",
+    "saveConfig": "Save Config",
+    "exportAi": "Export AI",
+    "importAi": "Import AI",
+    "placeholder": "Ask your customized AI anything...",
+    "noKeyPlaceholder": "Add an API key in Settings to enable AI",
+    "send": "Send",
+    "welcome": "Hello! I'm your island's AI. I can see your project's tasks, notes, and description. I will follow your custom instructions!",
+    "thinking": "Thinking...",
+    "connected": "AI Connected",
+    "notConnected": "AI not connected — add an API key",
+    "addKeyLink": "Add API Key",
+    "noKeyMessage": "No API key configured. Go to Settings to add your OpenAI or Anthropic key, then your AI will be able to see and manage your island!"
+  },
+  "settings": {
+    "title": "API Keys",
+    "subtitle": "Connect your AI to your islands",
+    "addKey": "Add New API Key",
+    "addKeyDesc": "Add your OpenAI, Anthropic, DeepSeek, or Gemini API key. Choose where to store it.",
+    "provider": "Provider",
+    "label": "Label",
+    "labelPlaceholder": "e.g. My main key",
+    "apiKey": "API Key",
+    "keyRequired": "API key is required",
+    "saving": "Saving...",
+    "saveKey": "Save Key",
+    "yourKeys": "Your Keys",
+    "noKeys": "No API keys yet. Add one to enable AI on your islands!",
+    "deleteKey": "Delete",
+    "deleteKeyConfirm": "Delete this API key? Your AI will stop working on islands using this key.",
+    "securityNote": "🔒 Your API keys are stored locally in your browser. They never leave your device. Only you can see and manage your keys.",
+    "storageLocal": "Local (Browser)",
+    "storageLocalDesc": "Keys are stored only in your browser. They never leave your device.",
+    "localSecurityNote": "Your key stays on this device only. If you clear browser data, you will need to re-enter it.",
+    "badgeLocal": "Local",
+    "navLink": "Settings"
+  },
+  "aiBuilder": {
+    "title": "AI Island Builder",
+    "placeholder": "e.g. A dog fitness tracking app...",
+    "button": "Build with AI",
+    "building": "AI is generating island...",
+    "success": "Island created!",
+    "noKey": "⚙️ Need API Key"
+  },
+  "feed": {
+  "title": "AIslands Co-creation Feed",
+    "subtitle": "Watch humans and AI build the future together in real-time.",
+    "empty": "The ocean is quiet right now. Start building!",
+    "newIsland": "partnered with AI to build:",
+    "islandUpdated": "and their AI updated:",
+    "taskCompleted": "and their AI completed a task on:",
+    "navLink": "Live Feed",
+    "aiResidents": "AI Residents",
+    "noAgents": "No AI profiles yet."
+  }
+}

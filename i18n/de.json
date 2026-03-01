@@ -1,0 +1,345 @@
+{
+    "splash": {
+        "loading": "Laden..."
+    },
+    "nav": {
+        "home": "Startseite",
+        "features": "Funktionen",
+        "pricing": "Preise",
+        "login": "Anmelden",
+        "getStarted": "Loslegen",
+        "dashboard": "Dashboard",
+        "signOut": "Abmelden"
+    },
+    "hero": {
+    "title": "AIslands",
+        "subtitle": "Wo Menschen und KI gemeinsam bauen",
+        "description": "Erstelle Projekte, verbinde deine KI-Agenten, arbeite mit echten Menschen zusammen — alles auf einem wunderschönen Archipel.",
+        "cta": "Starte die Erkundung",
+        "scrollHint": "Klicke auf eine Insel zum Erkunden"
+    },
+    "islands": {
+        "projects": {
+            "name": "Projekte",
+            "description": "Erstelle und verwalte KI-gestützte Projekte"
+        },
+        "collaborate": {
+            "name": "Zusammenarbeit",
+            "description": "Arbeite mit Menschen und ihren KI-Assistenten zusammen"
+        },
+        "feed": {
+            "name": "Feed",
+            "description": "Entdecke angesagte Projekte und diskutiere mit"
+        },
+        "agents": {
+            "name": "KI-Agenten",
+            "description": "Konfiguriere und teile deine KI-Assistenten"
+        },
+        "pricing": {
+            "name": "Preise",
+            "description": "Finde den perfekten Plan für deine Bedürfnisse"
+        }
+    },
+    "features": {
+        "badge": "Funktionen",
+        "title": "Alles was du brauchst, um mit KI zu bauen",
+        "subtitle": "Jede Insel ist ein Arbeitsbereich, wo du und dein KI-Team Ideen verwirklichen",
+        "projectsTitle": "Deine Projekt-Inseln",
+        "projectsDesc": "Jedes Projekt bekommt seine eigene Insel — ein Arbeitsbereich mit Aufgaben, Notizen und KI-Tools.",
+        "projectsBullet1": "Aufgaben-Board zum Verfolgen",
+        "projectsBullet2": "Notiz-Editor für Ideen",
+        "projectsBullet3": "MVP-Link zum Teilen",
+        "collabTitle": "Baue dein KI-Team",
+        "collabDesc": "Erstelle KI-Personas mit eigenen Rollen — Coder, Designer, Stratege. Jede hat ihren eigenen Prompt und Antwortstil.",
+        "feedTitle": "Rollen im Chat wechseln",
+        "feedDesc": "Übergib Gespräche nahtlos zwischen KI-Personas. Dein Ingenieur plant, dein Programmierer codet — alles in einem Thread.",
+        "agentsTitle": "Deine Schlüssel, deine Modelle",
+        "agentsDesc": "Verbinde deine OpenAI-, Anthropic-, DeepSeek- oder Gemini-Schlüssel. Du wählst das Modell, du besitzt die Daten.",
+        "notesTitle": "Notizen & Dokumentation",
+        "notesDesc": "Schreibe Notizen, Dokumentation und Spezifikationen direkt auf deiner Insel. Alles bleibt im Kontext für deine KI."
+    },
+    "howItWorks": {
+        "badge": "So funktioniert's",
+        "title": "Von Null zum KI-Projekt in 3 Schritten",
+        "subtitle": "Der Einstieg dauert weniger als 2 Minuten",
+        "step1Title": "Erstelle eine Insel",
+        "step1Desc": "Benenne dein Projekt, füge eine Beschreibung hinzu — dein Arbeitsbereich ist bereit. Jede Insel enthält Aufgaben, Notizen und KI-Werkstatt.",
+        "step1Mock": "Mein neues Startup",
+        "step2Title": "Erstelle KI-Personas",
+        "step2Desc": "Erstelle KI-Assistenten mit bestimmten Rollen und Anweisungen. Gib jedem einen Namen, ein Modell und einen Systemprompt.",
+        "step2Persona1": "Stratege",
+        "step2Persona2": "Coder",
+        "step2Persona3": "Designer",
+        "step3Title": "Chatten, wechseln, bauen",
+        "step3Desc": "Starte einen Chat mit einer KI, dann wechsle nahtlos zu einer anderen. Jede Persona liest den Verlauf und setzt in ihrer Rolle fort.",
+        "step3You": "Du:",
+        "step3Msg1": "Plane die Architektur einer Aufgaben-App",
+        "step3Msg2": "Hier ist eine 3-Schichten-Architektur...",
+        "step3AI1": "Stratege:",
+        "step3Switch": "Zu Coder wechseln",
+        "step3AI2": "Coder:",
+        "step3Msg3": "Basierend auf dem Plan, hier ist der Code..."
+    },
+    "guide": {
+        "badge": "Schnellstart",
+        "title": "Deine erste Insel in 6 Schritten",
+        "subtitle": "Eine vollständige Anleitung von der Anmeldung bis zum ersten KI-Gespräch",
+        "step1Title": "Konto erstellen",
+        "step1Desc": "Registriere dich mit deiner E-Mail. Bestätige dein Konto über den Link in der E-Mail.",
+        "step2Title": "API-Schlüssel hinzufügen",
+        "step2Desc": "Gehe zu Einstellungen und füge deinen OpenAI-, Anthropic-, DeepSeek- oder Gemini-Schlüssel hinzu.",
+        "step3Title": "Insel erstellen",
+        "step3Desc": "Klicke auf + im Dashboard. Gib deinem Projekt einen Namen und eine Beschreibung.",
+        "step4Title": "KI-Personas einrichten",
+        "step4Desc": "Öffne den KI-Arbeitsbereich. Erstelle Personas mit Namen, Rollen und Systemprompts.",
+        "step5Title": "Chatting starten",
+        "step5Desc": "Öffne den KI-Chat und starte ein Gespräch. Wechsle zwischen Personas mitten im Chat.",
+        "step6Title": "Verfolgen & Bauen",
+        "step6Desc": "Nutze Aufgaben für Fortschritt, Notizen für Dokumentation und die Übersicht zum Teilen deines MVP-Links."
+    },
+    "why": {
+        "badge": "Warum AIslands",
+        "title": "Gebaut für Macher, die Kontrolle wollen",
+        "privacyTitle": "Deine Daten, deine Schlüssel",
+        "privacyDesc": "Wir speichern nie Schlüssel im Klartext. Lokale Speicherung oder AES-256-Verschlüsselung. Volle Row Level Security.",
+        "speedTitle": "Null Konfiguration, sofortiger Start",
+        "speedDesc": "Keine komplizierte Einrichtung. Konto erstellen, Schlüssel hinzufügen und losbauen. Erstes KI-Gespräch in 2 Minuten.",
+        "multiTitle": "Multi-Modell-Freiheit",
+        "multiDesc": "OpenAI, Anthropic, DeepSeek, Gemini — nutze jedes Modell. Wechsle Anbieter pro Persona, pro Gespräch."
+    },
+    "pricing": {
+        "title": "Wähle deinen Plan",
+        "subtitle": "Starte kostenlos, upgrade wenn du bereit bist",
+        "free": {
+            "name": "Entdecker",
+            "price": "Kostenlos",
+            "period": "",
+            "features": [
+                "2 Projekt-Inseln",
+                "1 KI-Agenten-Slot",
+                "Community-Feed Zugang",
+                "Basis-Zusammenarbeit"
+            ],
+            "cta": "Kostenlos starten"
+        },
+        "pro": {
+            "name": "Seefahrer",
+            "price": "$12",
+            "period": "/Monat",
+            "features": [
+                "Unbegrenzte Projekt-Inseln",
+                "Unbegrenzte KI-Agenten-Slots",
+                "Priorität im Feed",
+                "Erweiterte Zusammenarbeits-Tools",
+                "Individuelle Insel-Themes",
+                "Prioritäts-Support"
+            ],
+            "cta": "Pro wählen",
+            "badge": "Beliebt"
+        }
+    },
+    "cta": {
+    "title": "Bereit in See zu stechen?",
+    "description": "Schließe dich Tausenden von Machern auf AIslands an und lass Menschen und KI die Zukunft gestalten — gemeinsam.",
+        "button": "Erste Insel erstellen"
+    },
+    "footer": {
+        "tagline": "Wo Menschen und KI gemeinsam bauen.",
+        "product": "Produkt",
+        "company": "Unternehmen",
+        "legal": "Rechtliches",
+        "features": "Funktionen",
+        "pricingLink": "Preise",
+        "docs": "Dokumentation",
+        "about": "Über uns",
+        "blog": "Blog",
+        "careers": "Karriere",
+        "privacy": "Datenschutz",
+        "terms": "AGB",
+        "rights": "Alle Rechte vorbehalten."
+    },
+    "auth": {
+        "loginTitle": "Willkommen zurück",
+        "loginSubtitle": "Melde dich auf deiner Insel an",
+        "signupTitle": "Tritt AIslands bei",
+        "signupSubtitle": "Erstelle dein Konto und fang an zu bauen",
+        "username": "Benutzername",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "usernamePlaceholder": "explorer_01",
+        "emailPlaceholder": "du@beispiel.de",
+        "passwordPlaceholder": "••••••••",
+        "loginBtn": "Anmelden",
+        "signupBtn": "Konto erstellen",
+        "loading": "Laden...",
+        "switchToSignup": "Neuer Entdecker?",
+        "switchToLogin": "Bereits ein Konto?",
+        "signupLink": "Registrieren",
+        "loginLink": "Anmelden",
+        "usernameRequired": "Benutzername ist erforderlich",
+        "forgotPassword": "Passwort vergessen?"
+    },
+    "forgotPassword": {
+        "title": "Passwort zurücksetzen",
+        "subtitle": "Gib deine E-Mail ein und wir senden dir einen Reset-Link",
+        "button": "Reset-Link senden",
+        "sent": "Schau in dein Postfach! Wir haben dir einen Link zum Zurücksetzen gesendet.",
+        "checkSpam": "Nicht erhalten? Prüfe deinen Spam-Ordner oder versuche es in ein paar Minuten erneut.",
+        "backTo": "Zurück zu"
+    },
+    "resetPassword": {
+        "title": "Neues Passwort",
+        "subtitle": "Wähle ein neues Passwort für dein Konto",
+        "newPassword": "Neues Passwort",
+        "confirmPassword": "Passwort bestätigen",
+        "button": "Passwort aktualisieren",
+        "mismatch": "Passwörter stimmen nicht überein",
+        "tooShort": "Passwort muss mindestens 6 Zeichen lang sein",
+        "success": "Passwort aktualisiert! Weiterleitung zum Dashboard...",
+        "redirecting": "Weiterleitung..."
+    },
+    "authConfirm": {
+        "title": "E-Mail bestätigt!",
+        "subtitle": "Dein Konto ist jetzt verifiziert",
+        "message": "Willkommen bei AIslands! Deine E-Mail wurde bestätigt und dein Konto ist einsatzbereit.",
+        "redirect": "Weiterleitung zum Dashboard in",
+        "button": "Zum Dashboard"
+    },
+    "authError": {
+        "title": "Verifizierung fehlgeschlagen",
+        "subtitle": "Etwas ist schiefgelaufen",
+        "message": "Der Bestätigungslink ist möglicherweise abgelaufen oder wurde bereits verwendet. Versuche, dich erneut zu registrieren.",
+        "tryAgain": "Erneut versuchen",
+        "goHome": "Zur Startseite"
+    },
+    "dashboard": {
+        "welcome": "Willkommen,",
+        "subtitle": "Deine Projekt-Inseln",
+        "newIsland": "+ Neue Insel",
+        "loadingIslands": "Inseln werden geladen...",
+        "emptyTitle": "Noch keine Inseln",
+        "emptyDesc": "Erstelle deine erste Projekt-Insel und fang an zu bauen!",
+        "createFirst": "Erste Insel erstellen",
+        "deleteConfirm": "Diese Insel löschen? Dies kann nicht rückgängig gemacht werden."
+    },
+    "createModal": {
+        "title": "Neue Insel erstellen",
+        "subtitle": "Benenne dein Projekt und fang an zu bauen",
+        "nameLabel": "Inselname",
+        "namePlaceholder": "Mein tolles Projekt",
+        "descLabel": "Beschreibung (optional)",
+        "descPlaceholder": "Was wirst du auf dieser Insel bauen?",
+        "nameRequired": "Inselname ist erforderlich",
+        "createFailed": "Insel konnte nicht erstellt werden",
+        "cancel": "Abbrechen",
+        "create": "Insel erstellen",
+        "creating": "Wird erstellt..."
+    },
+    "projectCard": {
+        "open": "Öffnen",
+        "delete": "Löschen"
+    },
+    "project": {
+        "backToDashboard": "← Zurück zum Dashboard",
+        "overview": "Übersicht",
+        "tasks": "Aufgaben",
+        "notes": "Notizen",
+        "settings": "Einstellungen",
+        "created": "Erstellt",
+        "status": "Status",
+        "active": "Aktiv",
+        "archived": "Archiviert",
+        "description": "Beschreibung",
+        "noDescription": "Noch keine Beschreibung.",
+        "webLink": "MVP / Website-Link",
+        "webLinkPlaceholder": "https://your-project.com",
+        "visitLink": "Projekt-Website besuchen",
+        "editDescription": "Bearbeiten",
+        "saveDescription": "Speichern",
+        "addTask": "Aufgabe hinzufügen",
+        "taskPlaceholder": "Was muss erledigt werden?",
+        "noTasks": "Noch keine Aufgaben. Füge eine hinzu!",
+        "notesPlaceholder": "Schreibe deine Notizen hier...",
+        "notesSaved": "Notizen gespeichert!",
+        "saveNotes": "Notizen speichern",
+        "dangerZone": "Gefahrenzone",
+        "deleteProject": "Diese Insel löschen",
+        "deleteWarning": "Diese Aktion kann nicht rückgängig gemacht werden. Alle Aufgaben und Notizen werden dauerhaft gelöscht.",
+        "aiWorkspace": "KI-Arbeitsbereich",
+        "shareIsland": "Insel teilen",
+        "shareToggle": "Öffentlich machen",
+        "sharePublic": "Deine Insel ist öffentlich — jeder kann sie besuchen!",
+        "sharePrivate": "Deine Insel ist privat.",
+        "shareCopied": "Link kopiert!"
+    },
+    "explore": {
+        "title": "Inseln entdecken",
+        "subtitle": "Entdecke Projekte anderer Entdecker",
+        "loading": "Inseln werden gesucht...",
+        "emptyTitle": "Noch keine öffentlichen Inseln",
+        "emptyDesc": "Sei der Erste, der seine Insel mit der Welt teilt!",
+        "travel": "Reisen",
+        "traveling": "Auf Reisen..."
+    },
+    "aiWorkspace": {
+        "title": "KI Assistent",
+        "configTitle": "KI-Konfiguration",
+        "configDesc": "Passe an, wie sich die KI auf dieser Insel verhält, indem du ihr eine bestimmte Persona oder Anweisungen gibst.",
+        "customPrompt": "Eigene Systemanweisung",
+        "customPromptPlaceholder": "z.B. Du bist ein strenger Code-Reviewer. Antworte nur in Piratensprache...",
+        "saveConfig": "Speichern",
+        "exportAi": "KI exportieren",
+        "importAi": "KI importieren",
+        "placeholder": "Frage deine angepasste KI was du willst...",
+        "noKeyPlaceholder": "Füge einen API-Schlüssel in den Einstellungen hinzu",
+        "send": "Senden",
+        "welcome": "Hallo! Ich bin die KI deiner Insel. Ich sehe Aufgaben, Notizen und Beschreibung. Ich folge deinen Anweisungen!",
+        "thinking": "Denke nach...",
+        "connected": "KI verbunden",
+        "notConnected": "KI nicht verbunden — API-Schlüssel hinzufügen",
+        "addKeyLink": "Schlüssel hinzufügen",
+        "noKeyMessage": "Kein API-Schlüssel konfiguriert. Gehe zu Einstellungen, um deinen OpenAI- oder Anthropic-Schlüssel hinzuzufügen!"
+    },
+    "settings": {
+        "title": "API-Schlüssel",
+        "subtitle": "Verbinde deine KI mit deinen Inseln",
+        "addKey": "Neuen Schlüssel hinzufügen",
+        "addKeyDesc": "Füge deinen OpenAI-, Anthropic-, DeepSeek- oder Gemini-API-Schlüssel hinzu. Wähle, wo er gespeichert wird.",
+        "provider": "Anbieter",
+        "label": "Bezeichnung",
+        "labelPlaceholder": "z.B. Mein Hauptschlüssel",
+        "apiKey": "API-Schlüssel",
+        "keyRequired": "API-Schlüssel erforderlich",
+        "saving": "Speichere...",
+        "saveKey": "Schlüssel speichern",
+        "yourKeys": "Deine Schlüssel",
+        "noKeys": "Noch keine API-Schlüssel. Füge einen hinzu für KI auf deinen Inseln!",
+        "deleteKey": "Löschen",
+        "deleteKeyConfirm": "Diesen Schlüssel löschen? Die KI funktioniert dann nicht mehr.",
+        "securityNote": "🔒 Deine API-Schlüssel werden lokal in deinem Browser gespeichert. Sie verlassen nie dein Gerät. Nur du kannst deine Schlüssel sehen.",
+        "storageLocal": "Lokal (Browser)",
+        "storageLocalDesc": "Schlüssel werden nur in deinem Browser gespeichert. Sie verlassen nie dein Gerät.",
+        "localSecurityNote": "Dein Schlüssel bleibt nur auf diesem Gerät. Bei Löschung der Browserdaten muss er erneut eingegeben werden.",
+        "badgeLocal": "Lokal",
+        "navLink": "Einstellungen"
+    },
+    "aiBuilder": {
+        "title": "KI Insel-Erschaffer",
+        "placeholder": "z.B. Eine Hunde-Fitness-App...",
+        "button": "Mit KI bauen",
+        "building": "KI generiert Insel...",
+        "success": "Insel erstellt!",
+        "noKey": "⚙️ API-Schlüssel fehlt"
+    },
+    "feed": {
+    "title": "AIslands Co-creation Feed",
+        "subtitle": "Beobachte, wie Menschen und KI gemeinsam die Zukunft bauen.",
+        "empty": "Der Ozean ist gerade ruhig. Fang an zu bauen!",
+        "newIsland": "hat mit KI eine Insel erschaffen:",
+        "islandUpdated": "und deren KI hat aktualisiert:",
+        "taskCompleted": "und deren KI hat eine Aufgabe abgeschlossen auf:",
+        "navLink": "Live-Feed",
+        "aiResidents": "KI-Bewohner",
+        "noAgents": "Noch keine KI-Profile."
+    }
+}
